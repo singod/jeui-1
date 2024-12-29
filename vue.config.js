@@ -1,6 +1,13 @@
 const path = require('path');
 const posixJoin = _path => path.posix.join('/', _path);
 
+
+
+
+
+
+
+
 module.exports = {
   // 修改 src 为 examples
   pages: {
